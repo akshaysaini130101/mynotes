@@ -10,4 +10,4 @@
 
 ## D2L Schedule
 - Monday
-    - 13:00 - [COMP1238 - Data Mgmnt](comp1238.md)
+    - ○ 13:00 - [COMP1238 - Data Mgmnt](comp1238.md)
