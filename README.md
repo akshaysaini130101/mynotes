@@ -11,5 +11,17 @@
 ## D2L Schedule
 - Monday <br>
     ○ 09:00 - [COMP1236	Fundamentals of Computing Logic](https://learn.georgebrown.ca/d2l/home/455928)<br>
-    ○ 11:00 [OMP1151	IT Essentials](https://learn.georgebrown.ca/d2l/home/451461)<br>
-    
+    ○ 11:00 - [COMP1151	IT Essentials](https://learn.georgebrown.ca/d2l/home/451461)<br>
+     ○ 15:00 - [COMP1234	Introduction To Web Development](https://learn.georgebrown.ca/d2l/home/462729)<br>
+- Tuesday <br>
+    ○ 14:00 - [COMP1234	Introduction To Web Development](https://learn.georgebrown.ca/d2l/home/462729)<br>
+    ○ 14:30 - [COMP1238	Introduction to Data Management](https://learn.georgebrown.ca/d2l/home/452067)<br>
+- Wednesday <br>
+    ○ 09:00 - [COMP1151	IT Essentials](https://learn.georgebrown.ca/d2l/home/451461)<br>
+    ○ 12:00 - [MATH1162	Mathematics for Computer Technology I](https://learn.georgebrown.ca/d2l/home/447678)<br>
+     ○ 14:00 - [COMP1000 INTRO TO COLLEGE COMMUNICATION](https://learn.georgebrown.ca/d2l/home/430373)<br>
+- Thursday <br>
+    ○ 12:00 - [MATH1162	Mathematics for Computer Technology I](https://learn.georgebrown.ca/d2l/home/447678)<br>
+- Thursday <br>
+    ○ 11:00 - [COMP1236	Fundamentals of Computing Logic](https://learn.georgebrown.ca/d2l/home/455928)<br>
+    ○ 15:00 - [COMP1238	Introduction to Data Management](https://learn.georgebrown.ca/d2l/home/452067)<br>    
