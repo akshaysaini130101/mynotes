@@ -10,4 +10,5 @@
 
 ## D2L Schedule
 - Monday <br>
-    ○ 13:00 - [COMP1236	Fundamentals of Computing Logic](https://learn.georgebrown.ca/d2l/home/455928)
+    ○ 13:00 - [COMP1236	Fundamentals of Computing Logic](https://learn.georgebrown.ca/d2l/home/455928)<br>
+    
